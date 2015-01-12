@@ -1,0 +1,9 @@
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\bin\Debug\CustomerQueueAppUsingDatabase.exe.config
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\bin\Debug\CustomerQueueAppUsingDatabase.exe
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\bin\Debug\CustomerQueueAppUsingDatabase.pdb
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\obj\Debug\CustomerQueueAppUsingDatabase.Properties.Resources.resources
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\obj\Debug\CustomerQueueAppUsingDatabase.csproj.GenerateResource.Cache
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\obj\Debug\CustomerQueueAppUsingDatabase.exe
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\obj\Debug\CustomerQueueAppUsingDatabase.pdb
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\obj\Debug\CustomerQueueAppUsingDatabase.CustomerServiceUI.resources
+H:\FTFL\ASP.NET APP\CustomerQueueAppUsingDatabase\CustomerQueueAppUsingDatabase\obj\Debug\CustomerQueueAppUsingDatabase.csprojResolveAssemblyReference.cache
